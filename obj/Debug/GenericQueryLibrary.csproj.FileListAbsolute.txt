@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\MyBlog\WangWeiBlog\WangWeiBlogApp\GenericQueryLibrary\bin\Debug\GenericQueryLibrary.dll
+C:\Users\Administrator\Desktop\MyBlog\WangWeiBlog\WangWeiBlogApp\GenericQueryLibrary\bin\Debug\GenericQueryLibrary.pdb
+C:\Users\Administrator\Desktop\MyBlog\WangWeiBlog\WangWeiBlogApp\GenericQueryLibrary\obj\Debug\GenericQueryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MyBlog\WangWeiBlog\WangWeiBlogApp\GenericQueryLibrary\obj\Debug\GenericQueryLibrary.dll
+C:\Users\Administrator\Desktop\MyBlog\WangWeiBlog\WangWeiBlogApp\GenericQueryLibrary\obj\Debug\GenericQueryLibrary.pdb
